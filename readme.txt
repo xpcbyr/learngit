@@ -10,5 +10,3 @@ ogit tracks changes.
 
 modify this line after add.
 
-
-My boss is a stupid one.
