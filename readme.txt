@@ -10,5 +10,5 @@ ogit tracks changes.
 
 modify this line after add.
 
-creating a new branch is quick AND simple.
+creating a new branch is quick AND AND simple.
 
